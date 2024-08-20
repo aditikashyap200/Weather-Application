@@ -1,4 +1,3 @@
-# Weather-Application
 import React from "react";
 import apiKeys from "./apiKeys";
 import Clock from "react-live-clock";
